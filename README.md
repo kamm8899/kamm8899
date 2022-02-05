@@ -3,6 +3,7 @@
 
 GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamm8899)](https://github.com/kamm8899/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamm8899&count_private=true)
 
 
 <!--
