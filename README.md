@@ -3,7 +3,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamm8899&count_private=true&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamm8899)](https://github.com/kamm8899/github-readme-stats&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamm8899&layout=compact)](https://github.com/kamm8899/github-readme-stats)
 
 
 <!--
