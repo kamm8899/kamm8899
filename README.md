@@ -1,3 +1,10 @@
+#Get to Know Me: Jessica Kamman | Analyst System Developer 
+
+Currently I am a Analyst System Developer working in the DevOps space for a fortune 500 Insurance Company. As a team member, I currently work daily on creating new CI/CD for on-prem and Cloud pipelines for the following frameworks: Java, Python, Flyway Database pipelines. Part of my time is also spend with automating processes that are requested by other business units as feature enhancements. 
+
+#Technologies and Languages that I am proficient In
+
+
 ### Hi there 👋
 
 
