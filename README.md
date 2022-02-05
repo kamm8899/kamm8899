@@ -1,5 +1,8 @@
 ### Hi there 👋
-![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+
+
+GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamm8899)](https://github.com/kamm8899/github-readme-stats)
 
 
 <!--
