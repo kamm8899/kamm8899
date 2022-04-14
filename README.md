@@ -22,7 +22,7 @@
                                                                                                                                                                                                                                                                                       
 </a>
     <a href="https://github.com/kamm8899/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamm8899&layout=compact?hide=JuptyerLab)]"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamm8899&layout=compact?hide=JuptyerLab&theme=tokyonight" />
     </div>
  </a>
  
