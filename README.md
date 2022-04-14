@@ -54,7 +54,7 @@
 <br/>
 
 
-<a href="#"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mejialaguna&custom_title=mejia%20laguna%20Contribution%20Graph&bg_color=FFFFF&color=6A4DFF&line=88CC00&point=6A4DFF&hide_border=true" /></a>
+<a href="#"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kamm8899&custom_title=Jessica%20%20Contribution%20Graph&bg_color=tokyonight=6A4DFF&line=88CC00&point=6A4DFF&hide_border=true" /></a>
   
 
 
