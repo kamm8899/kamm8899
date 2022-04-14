@@ -28,11 +28,10 @@
 
 </br>
                                                                                                                                        <br>
-    <div align="left">
+    <div align="center">
         <a href="(https://git.io/streak-stats" title="Go to Source">
               <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=kamm8899&theme=Javascript-dark&date_format=M%20j%5B%2C%20Y%5D"/>
-              </a>
-       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kamm8899&theme=tokyonight" alt=" wakatime"/>
+   
        
 </br>
 </br>
