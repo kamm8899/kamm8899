@@ -27,6 +27,10 @@
  </a>
 
 </br>
+                                                                                                                                       <br>
+    <div align="left">
+        <a href="(https://git.io/streak-stats" title="Go to Source">
+              <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=mejialaguna&theme=Javascript-dark&date_format=M%20j%5B%2C%20Y%5D"/>
 </br>
 </br>
 </br>
