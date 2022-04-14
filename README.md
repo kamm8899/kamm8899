@@ -4,10 +4,9 @@
 
 <div align="center">   
 <a href="mailto:kamm8899@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-CC6600?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="mailto:mejialaguna@yahoo.com" target="_blank"><img src="https://img.shields.io/badge/-Email-purple?style=for-the-badge&logo=yahoo&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/jose-luis-mejia-laguna-961306164/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-<a href="https://github.com/mejialaguna" target="_blank"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=GitHub&logoColor=white"></a>
-<a href="https://github.com/mejialaguna" target="_blank"><img src="https://img.shields.io/badge/Heroku-purple?style=for-the-badge&logo=Heroku&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/jessica-kamman-50a1aa159//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href="https://github.com/kamm8899/" target="_blank"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=GitHub&logoColor=white"></a>
+<a href="https://github.com/kamm8899/" target="_blank"><img src="https://img.shields.io/badge/Heroku-purple?style=for-the-badge&logo=Heroku&logoColor=white"></a>
     
 <br/>
 
