@@ -81,28 +81,6 @@
     
 <br> 
 <br> 
-    
-<h3 align="center">Cloud & Open Source</h3>    
-    
-<img src="https://img.icons8.com/color/40/000000/github--v3.png" align="right" style="margin-top: 3.5%" />
-<img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" height="55px" align="left"/>
-
-</td><td valign="top" width="33%">
-    
-<h3 align="center">Backend Development</h3>  
-    
-<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" align="left" alt="express" width="40" height="40"/>
-<img src="profile-icons/npm.jpg" align="center" width="40" height="40" style="margin-left: 4%"/>
-<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" align="right" width="70"  />
-
-  
- <br/>
-
-<h3 align="center">Database</h3>    
-   
- <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="55"/> 
- <img align="center" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GrapgQL" width="45" height="55"/>
- <img align="right" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" width="65" height="55"/>
 
 </td></tr></table>
 
