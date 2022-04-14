@@ -3,7 +3,10 @@
 
 <div>
     <div align="right>
-        <a href="#"><img alt="Jessica Kamman | Analyst System Developer " src="https://github-readme-stats.vercel.app/api?username=mejialaguna&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=6A4DFF&icon_color=6A4DFF" height="160"/></a>
+        <a href="#"><img alt="Jessica Kamman | Analyst System Developer "/a>
+<a href="https://github.com/kamm8899/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kamm8899&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
         <a href="#"><img alt="<mejia%20laguna Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mejialaguna&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=6A4DFF&icon_color=6A4DFF" height="160"/></a>
     </div>
 
