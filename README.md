@@ -25,35 +25,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamm8899&layout=compact?hide=JuptyerLab&theme=tokyonight" />
     </div>
  </a>
- 
-
-
-### Hi there 👋
-
-
-<a href="https://github.com/kamm8899/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kamm8899&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/kamm8899/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamm8899&layout=compact)]"/>
-</a>
-
-<!--
-**kamm8899/kamm8899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 
 </br>
 </br>
@@ -62,12 +33,13 @@ Here are some ideas to get you started:
 
     
     const developements = {
-      "Web Development" : {
-          "Languages" : [ "HTML" , "CSS", "JavaScript",  ] ,
-          "DataBases" : [ 'MySQL', 'MongoDB', 'GraphQL' ,  ]
+      "Full-Stack Development" : {
+          "Languages" : [ "HTML" , "CSS", "JavaScript, Java, Python, C++" ] ,
+          "DataBases" : [ 'MySQL', 'MongoDB', 'GraphQL' ,'Postgres SQL', 'NoSQL'  ]
           "Frameworks" : [ "Bootstrap" , "Jquery" , "Node.js", "Express.js", "NPM", "React", "Context-Api" , 
-                                "Redux" , "Next.js", "Google API", "M-UI" , 
-                                         "Semantic-UI" , "Materialize-CSS"]
+                                "Redux" , "Next.js", "Google API", "JuptyerNotebook", "DevOps", "Agile" , 
+                                         "Semantic-UI" , "Materialize-CSS", "Jenkins", "AWS", "OOP", "Rest-API","Server-Side API", "Moongoose"],
+         "Certifications":["SSM"]
       }      
     }
 
