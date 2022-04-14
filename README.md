@@ -14,25 +14,17 @@
 <a href="mailto:kamm8899@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-CC6600?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/jessica-kamman-50a1aa159//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href="https://github.com/kamm8899/" target="_blank"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=GitHub&logoColor=white"></a>
-
-    
 <br/>
-
 <div>
-    <div align="right>
-        <a href="#"><img alt="Jessica Kamman | Analyst System Developer "/a>
+    <div align="left>
 <a href="https://github.com/kamm8899/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kamm8899&count_private=true&show_icons=true&theme=tokyonight" />
+                                                                                                                                                                                                                                                                                      
 </a>
         <a href="#"><img alt="<mejia%20laguna Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mejialaguna&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=6A4DFF&icon_color=6A4DFF" height="160"/></a>
     </div>
     <a href= "#"><img alt="<JessicaKammans Top Languages: src="https://github-readme-stats.vercel.app/api/top-langs/?username" height= "160"/></a>
  
-
-
-Currently I am a Analyst System Developer working in the DevOps space for a fortune 500 Insurance Company. As a team member, I currently work daily on creating new CI/CD for on-prem and Cloud pipelines for the following frameworks: Java, Python, Flyway Database pipelines. Part of my time is also spend with automating processes that are requested by other business units as feature enhancements. 
-
-## Technologies and Languages that I am proficient In
 
 
 ### Hi there 👋
@@ -61,18 +53,6 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center"> Lets connect</h1>
-</br>
-</br>
-
-    
-<br/>
-    
-<img src="https://img.shields.io/github/last-commit/mejialaguna/mejialaguna" >
-<a href="https://github.com/mejialaguna"><img src="https://img.shields.io/github/followers/mejialaguna?style=social" target="_blank" /></a>
-    
-    
-</div>
 
 </br>
 </br>
