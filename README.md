@@ -23,7 +23,7 @@
 </a>
         <a href="#"><img alt="<mejia%20laguna Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mejialaguna&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=6A4DFF&icon_color=6A4DFF" height="160"/></a>
     </div>
-    <a href= "#"><img alt="<JessicaKammans Top Languages: src="https://github-readme-stats.vercel.app/api/top-langs/?username" height= "160"/></a>
+ </a>
  
 
 
