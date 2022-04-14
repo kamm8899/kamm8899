@@ -70,13 +70,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="40" align="center"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="40" align="right"/> 
 
-    
- <br/>
- <br/>    
-  
-<img src="https://www.vectorlogo.zone/logos/jquery/jquery-horizontal.svg" alt="jQuery" width="55" height="40" align="left"/> 
-<img src="profile-icons/materialize.jpg" align="center" width="45" height="40"/> 
-<img style="margin-top: 2.5%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="bootstrap" width="45" height="40" align="right"/>
 
     
 <br> 
