@@ -52,32 +52,3 @@
 <br/>
 <br/>
 
-
-<table align="center"><tr><td valign="top" width="35%">
-<h3 align="center">Programming Languages</h3>
-<p align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" > <img src="https://img.icons8.com/color/60/000000/javascript--v2.png"/>
-</a>  </p>
-  
-<h3 align="center">Editor/Testers</h3>
-<p align="center">  <a href="https://code.visualstudio.com/" > <img src="https://i.ibb.co/vBw3R3Q/Visual-Studio-Code.png" width="40" height="40"/> </a><img height="40" src="profile-icons/insomnia.png">
-</p>
-  
-</td><td align="top" width="33%">
-<h3 align="center">Frontend Development</h3>
- 
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="40" align="left"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="40" align="center"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="40" align="right"/> 
-
-
-    
-<br> 
-<br> 
-
-</td></tr></table>
-
-
-</br>
-</br>
-</br>
