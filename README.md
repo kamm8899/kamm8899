@@ -3,7 +3,10 @@
 </br>
 </br>
 <p>
-   I have been working as a Analyst System Developer for a fortune 500 Insurance Company since July, 2019. Currently I support an automation Services team in the DevOps space. Where I help a team to look at new automation ways to help inside applications teams to promote their code faster. Developing new applications to help assist code promotion. Frameworks I currently use includes: Java, Python, Flyway, Artifactory, Jenkins, AWS, Docker. 
+   I have been working for fortune 500 Insurance Company since July, 2019. Currently I hold the position of a Specialist in System Operations where I  support an automation Services team in the DevOps space. Where I help a team to look at new automation ways to help inside applications teams to promote their code faster. Developing new applications to help assist code promotion. 
+   I currently am proficient in the following deployment Tools: Ansible, Terraform, Flyway, Maven, Gradle, Jenkins.  
+   Frameworks I am comfortable with: Artifactory, Java, Python, DotNet, Docker
+   Proficient with the Following Cloud frameworks: AWS, AWS Sagemaker, AWS Aurora Postgres.
 </p>
 
 <h2 align="center"> Lets connect</h1>
