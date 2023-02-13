@@ -9,10 +9,12 @@
    I currently am proficient in the following deployment Tools: Ansible, Terraform, Flyway, Maven, Gradle, Jenkins.  
    </br>
 
-   Frameworks I am comfortable with: Artifactory, Java, Python, DotNet, Docker
+   Frameworks I am comfortable with: Artifactory, DotNet, Docker, JPA
    </br>
+   
+   Languages: SQL, Java, Python, C++
 
-   Proficient with the Following Cloud frameworks: AWS, AWS Sagemaker, AWS Aurora Postgres.
+   Proficient with the Following Cloud frameworks: AWS, AWS Sagemaker, AWS Aurora Postgres, Cloud9, EC2, IAM Roles
 </p>
 
 <h2 align="center"> Lets connect</h1>
