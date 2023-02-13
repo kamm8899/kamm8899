@@ -6,8 +6,8 @@
    I have been working for fortune 500 Insurance Company since July, 2019. Currently I hold the position of a Senior DevOps Engineer. Where I help a team to look at new automation ways to help inside applications teams to promote their code faster. Developing new applications to help assist code promotion. 
    </br>
 </br>
-    const developements = {
-      "Full-Stack Development" : {
+ 
+      .bolded { font-weight: bold; } "Full-Stack Development" : {
           "Languages" : [ "HTML" , "CSS", "JavaScript, Java, Python, C++" ] ,
           </br>
           "DataBases" : [ 'MySQL', 'MongoDB', 'GraphQL' ,'Postgres SQL', 'NoSQL', Postgresql ]
