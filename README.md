@@ -7,7 +7,7 @@
    </br>
 </br>
  
-      .bolded { font-weight: bold; } "Full-Stack Development" : {
+      "Full-Stack Development" : {
           "Languages" : [ "HTML" , "CSS", "JavaScript, Java, Python, C++" ] ,
           </br>
           "DataBases" : [ 'MySQL', 'MongoDB', 'GraphQL' ,'Postgres SQL', 'NoSQL', Postgresql ]
