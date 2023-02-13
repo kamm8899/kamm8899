@@ -9,12 +9,17 @@
     const developements = {
       "Full-Stack Development" : {
           "Languages" : [ "HTML" , "CSS", "JavaScript, Java, Python, C++" ] ,
+          </br>
           "DataBases" : [ 'MySQL', 'MongoDB', 'GraphQL' ,'Postgres SQL', 'NoSQL', Postgresql ]
+          </br>
           "Frameworks" : [ "Bootstrap" , "Jquery" , "Node.js", "Express.js", "NPM", "React", "Context-Api" , 
                                 "Redux" , "Next.js", "Google API", "JuptyerNotebook", "DevOps", "Agile" , 
                                          "Semantic-UI" , "Materialize-CSS", "Jenkins", "AWS", "OOP", "Rest-API","Server-Side API", "Moongoose, JPA, "],
+                                         </br>
          "Tools": [Ansible, Flyway, Terraform, Maven, Gradle, Jenkins, Docker, Payara, Artifactory],
-         "Cloud":[AWS-Cloud9, AWS-EC2, AWS-IAM, AWS-Sagemaker, AWS-DeepRacer, AWS-Aurora Postgres"]
+         </br>
+         "Cloud":[AWS-Cloud9, AWS-EC2, AWS-IAM, AWS-Sagemaker, AWS-DeepRacer, AWS-Aurora Postgres"],
+         </br>
          "Certifications":["SSM"]
       }      
     }
