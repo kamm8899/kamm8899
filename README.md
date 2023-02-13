@@ -6,15 +6,19 @@
    I have been working for fortune 500 Insurance Company since July, 2019. Currently I hold the position of a Senior DevOps Engineer. Where I help a team to look at new automation ways to help inside applications teams to promote their code faster. Developing new applications to help assist code promotion. 
    </br>
 </br>
-   I currently am proficient in the following deployment Tools: Ansible, Terraform, Flyway, Maven, Gradle, Jenkins.  
-   </br>
+    const developements = {
+      "Full-Stack Development" : {
+          "Languages" : [ "HTML" , "CSS", "JavaScript, Java, Python, C++" ] ,
+          "DataBases" : [ 'MySQL', 'MongoDB', 'GraphQL' ,'Postgres SQL', 'NoSQL', Postgresql ]
+          "Frameworks" : [ "Bootstrap" , "Jquery" , "Node.js", "Express.js", "NPM", "React", "Context-Api" , 
+                                "Redux" , "Next.js", "Google API", "JuptyerNotebook", "DevOps", "Agile" , 
+                                         "Semantic-UI" , "Materialize-CSS", "Jenkins", "AWS", "OOP", "Rest-API","Server-Side API", "Moongoose, JPA, "],
+         "Tools": [Ansible, Flyway, Terraform, Maven, Gradle, Jenkins, Docker, Payara, Artifactory],
+         "Cloud":[AWS-Cloud9, AWS-EC2, AWS-IAM, AWS-Sagemaker, AWS-DeepRacer, AWS-Aurora Postgres"]
+         "Certifications":["SSM"]
+      }      
+    }
 
-   Frameworks I am comfortable with: Artifactory, DotNet, Docker, JPA
-   </br>
-   
-   Languages: SQL, Java, Python, C++
-
-   Proficient with the Following Cloud frameworks: AWS, AWS Sagemaker, AWS Aurora Postgres, Cloud9, EC2, IAM Roles
 </p>
 
 <h2 align="center"> Lets connect</h1>
@@ -48,18 +52,7 @@
 </br>
 </br>
 
-    
-    const developements = {
-      "Full-Stack Development" : {
-          "Languages" : [ "HTML" , "CSS", "JavaScript, Java, Python, C++" ] ,
-          "DataBases" : [ 'MySQL', 'MongoDB', 'GraphQL' ,'Postgres SQL', 'NoSQL'  ]
-          "Frameworks" : [ "Bootstrap" , "Jquery" , "Node.js", "Express.js", "NPM", "React", "Context-Api" , 
-                                "Redux" , "Next.js", "Google API", "JuptyerNotebook", "DevOps", "Agile" , 
-                                         "Semantic-UI" , "Materialize-CSS", "Jenkins", "AWS", "OOP", "Rest-API","Server-Side API", "Moongoose"],
-         "Certifications":["SSM"]
-      }      
-    }
-
+   
 <br/>
 <br/>
 
