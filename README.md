@@ -3,20 +3,11 @@
 </br>
 </br>
 <p>
-   I have been working for fortune 500 Insurance Company since July, 2019. Currently I hold the position of a Senior DevOps Engineer. Where I help a team to look at new automation ways to help inside applications teams to promote their code faster. Developing new applications to help assist code promotion. 
+
    </br>
 </br>
  
-      "Full-Stack Development" : {
-          "Languages" : [ "HTML" , "CSS", "JavaScript, Java, Python, C++" ] ,
-          "DataBases" : [ 'MySQL', 'MongoDB', 'GraphQL' ,'Postgres SQL', 'NoSQL', Postgresql ]
-          "Frameworks" : [ "Bootstrap" , "Jquery" , "Node.js", "Express.js", "NPM", "React", "Context-Api" , 
-                                "Redux" , "Next.js", "Google API", "JuptyerNotebook", "DevOps", "Agile" , 
-                                         "Semantic-UI" , "Materialize-CSS", "Jenkins", "AWS", "OOP", "Rest-API","Server-Side API", "Moongoose, JPA, "],
-                                         
-         "Tools": [Ansible, Flyway, Terraform, Maven, Gradle, Jenkins, Docker, Payara, Artifactory],
-         "Cloud":[AWS-Cloud9, AWS-EC2, AWS-IAM, AWS-Sagemaker, AWS-DeepRacer, AWS-Aurora Postgres"],
-         "Certifications":["SSM"]
+
       }      
     }
 
